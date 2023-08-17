@@ -28,7 +28,7 @@
     git remote add origin <repositório>
     git push -u origin main
   </p>
-[Portifólio](https://matheus-bdr.github.io/MeuSite/)
+  <a href="https://matheus-bdr.github.io/MeuSite/" alt="Portifólio">Portifólio</a>
 <p align="left">
   💌 Entre em contato:: ⤵️
 </p>
