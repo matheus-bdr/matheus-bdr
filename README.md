@@ -10,8 +10,8 @@
 </p>
 
 
-  <h1>Atalhos</h1>
-  <h2>Assim você vai subir seu código bem mais rápido</h2>
+  <h1>Dica:</h1>
+  <h2>Este é o passo a passo para subir seu código para o github</h2>
   <p align="left">
  
     git init 
