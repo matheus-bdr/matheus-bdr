@@ -10,6 +10,24 @@
 </p>
 
 
+  <h1>Atalhos</h1>
+  <h2>Assim você vai subir seu código bem mais rápido</h2>
+  <p align="left">
+ 
+    git init 
+    git config --global user.name "seu-nome"
+    git config --global user.email seu@email.com
+    git clone "repositório"
+
+    code . 
+
+    git status
+    git add .
+    git commit -m "update"
+    git branch -M main
+    git remote add origin <repositório>
+    git push -u origin main
+  </p>
 [Portifólio](https://matheus-bdr.github.io/MeuSite/)
 <p align="left">
   💌 Entre em contato:: ⤵️
