@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Matheus e sou <strong>Analista de Dados </strong> e tambem sou <strong>Desenvolvedor Web</strong>.<br>
-  No momento, venho estudando Análise de Dados.
+  Olá, meu nome é Matheus e sou <strong>Analista de Dados </strong>.<br>
+  No momento, venho estudando Análise de Dados e soluções inteligentes de dados.
 </p>
 
 <p align="left">
