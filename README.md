@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e ferramentas: <strong>Python(para ETL), Pentaho Data Integration e SSIS(SQL Server Integration Services)</strong>
+  🦄 Linguagens e ferramentas: <strong> Python(para ETL), Pentaho Data Integration e SSIS(SQL Server Integration Services).</strong>
 </p>
 
 
